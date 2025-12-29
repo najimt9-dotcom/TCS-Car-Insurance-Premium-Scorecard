@@ -1,4 +1,5 @@
 🚗 Car Insurance Premium Scorecard – TCS Use Case
+
 📌 Project Overview
 
 The Car Insurance Premium Scorecard is an AI-driven system designed to analyze driver behavior in real time and calculate insurance risk scores. The project uses computer vision, cloud integration, and AI models to monitor driving patterns and support insurance premium calculation.
