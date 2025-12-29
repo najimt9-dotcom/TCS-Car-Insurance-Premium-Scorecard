@@ -1,0 +1,49 @@
+PREMIUM MANAGEMENT SCORECARD
+==================================================
+**Premium Management Scorecard**
+
+### Overview
+
+The premium management scorecard is designed to provide a comprehensive overview of the fleet's performance and risk profile. The scorecard is based on key performance indicators (KPIs) that measure the fleet's safety, efficiency, and compliance.
+
+### KPIs
+
+1. **Vehicle Count**: 125
+2. **Total Violations**: 314
+3. **Maximum Speed**: 115 km/h
+4. **Vehicle Type Distribution**:
+	* Car: 28 (22.4% of total vehicles)
+	* Bus: 18 (14.4% of total vehicles)
+	* Truck: 28 (22.4% of total vehicles)
+	* Motorcycle: 23 (18.4% of total vehicles)
+	* Person: 27 (21.6% of total vehicles)
+	* Train: 1 (0.8% of total vehicles)
+
+### Risk Assessment
+
+Based on the KPIs, the following risk assessment can be made:
+
+* **High-Risk Vehicles**: Trucks and buses, which account for 36.8% of the total vehicles, pose a higher risk due to their size and potential impact in the event of an accident.
+* **High-Risk Behavior**: The maximum speed of 115 km/h indicates that some drivers may be engaging in reckless behavior, which increases the risk of accidents.
+* **Compliance**: The high number of violations (314) suggests that there may be issues with compliance, which can lead to fines, penalties, and reputational damage.
+
+### Recommendations
+
+1. **Implement a Speed Management Program**: Develop a program to monitor and manage speed, including driver training and incentives for safe driving.
+2. **Enhance Compliance**: Develop a compliance program to ensure that all vehicles are properly maintained, and drivers are aware of and adhere to traffic laws and regulations.
+3. **Vehicle Type Optimization**: Consider optimizing the vehicle type distribution to reduce the number of high-risk vehicles on the road.
+4. **Driver Training**: Provide regular driver training to improve safety and reduce the number of violations.
+
+### Scorecard Metrics
+
+1. **Safety Score**: 60/100 (based on the number of violations and maximum speed)
+2. **Efficiency Score**: 70/100 (based on the vehicle type distribution and compliance)
+3. **Compliance Score**: 40/100 (based on the number of violations)
+
+### Action Plan
+
+1. **Short-Term (0-3 months)**: Implement a speed management program and enhance compliance.
+2. **Medium-Term (3-6 months)**: Develop a vehicle type optimization plan and provide driver training.
+3. **Long-Term (6-12 months)**: Monitor and evaluate the effectiveness of the implemented programs and make adjustments as needed.
+
+By following this premium management scorecard, the fleet can reduce its risk profile, improve safety and efficiency, and optimize its operations.

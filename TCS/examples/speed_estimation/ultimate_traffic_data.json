@@ -1,0 +1,2348 @@
+{
+    "statistics": {
+        "analysis_id": "analysis_20251127_153339",
+        "total_vehicles_detected": 125,
+        "vehicles_in_zone": 125,
+        "total_unique_violations": 314,
+        "vehicle_class_distribution": {
+            "car": 28,
+            "bus": 18,
+            "truck": 28,
+            "motorcycle": 23,
+            "person": 27,
+            "train": 1
+        },
+        "max_speed": 115,
+        "avg_speed": 28.703821656050955,
+        "vehicles_with_violations": 64,
+        "processing_duration": 66.790257
+    },
+    "violations": {
+        "1_car": [
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:45.310321",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:50.512201",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:55.541835",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:01.265247",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:28.074101",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:35.140302",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 1,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:40.693523",
+                "violation_number": 7
+            }
+        ],
+        "11_car": [
+            {
+                "tracker_id": 11,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:45.310392",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 11,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:33:50.512361",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 11,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:33:55.542006",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 11,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:00.387634",
+                "violation_number": 4
+            }
+        ],
+        "3_car": [
+            {
+                "tracker_id": 3,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:33:45.310423",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 3,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:33:50.512740",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 3,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:33:54.292474",
+                "violation_number": 3
+            }
+        ],
+        "17_truck": [
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:45.310452",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:50.512311",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:33:55.542790",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:33:58.337888",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:05.579309",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:11.356220",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:12.460444",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:17.535632",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 61,
+                "timestamp": "2025-11-27T15:34:18.973684",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:19.619957",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 57,
+                "timestamp": "2025-11-27T15:34:19.968205",
+                "violation_number": 11
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:20.576360",
+                "violation_number": 12
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:25.788998",
+                "violation_number": 13
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:31.024329",
+                "violation_number": 14
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:36.329342",
+                "violation_number": 15
+            },
+            {
+                "tracker_id": 17,
+                "class": "truck",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:45.595337",
+                "violation_number": 16
+            }
+        ],
+        "5_car": [
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:33:45.310480",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 54,
+                "timestamp": "2025-11-27T15:33:50.512644",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:33:53.495002",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:33:58.648771",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:03.837261",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:07.071133",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:12.128205",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:17.229361",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:22.285676",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:27.740741",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:33.372947",
+                "violation_number": 11
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:38.655070",
+                "violation_number": 12
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:43.666011",
+                "violation_number": 13
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:45.595520",
+                "violation_number": 14
+            },
+            {
+                "tracker_id": 5,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:46.431504",
+                "violation_number": 15
+            }
+        ],
+        "8_car": [
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:45.310509",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:50.512258",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:33:55.541960",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:00.685463",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:05.872523",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:10.946128",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:16.052480",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:21.102933",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:26.214350",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:31.321992",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:36.329465",
+                "violation_number": 11
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:42.826822",
+                "violation_number": 12
+            },
+            {
+                "tracker_id": 8,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:47.831031",
+                "violation_number": 13
+            }
+        ],
+        "12_car": [
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:45.310536",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:33:50.512500",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:55.542177",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:00.685589",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:22.589698",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:34.545420",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:39.802097",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 12,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:45.053314",
+                "violation_number": 8
+            }
+        ],
+        "4_car": [
+            {
+                "tracker_id": 4,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:45.310563",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 4,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:50.512409",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 4,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:55.542094",
+                "violation_number": 3
+            }
+        ],
+        "10_car": [
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 64,
+                "timestamp": "2025-11-27T15:33:45.310635",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 57,
+                "timestamp": "2025-11-27T15:33:50.512976",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 46,
+                "timestamp": "2025-11-27T15:33:55.542223",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:00.685945",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:05.872758",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:11.423692",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:16.648758",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:21.666918",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:27.740616",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:32.777513",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:38.055164",
+                "violation_number": 11
+            },
+            {
+                "tracker_id": 10,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:43.161740",
+                "violation_number": 12
+            }
+        ],
+        "9_car": [
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:33:45.310662",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:33:50.513023",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:57.696794",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:02.984903",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:08.260532",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:13.502670",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:18.670679",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:23.731338",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:28.874111",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 9,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:33.954163",
+                "violation_number": 10
+            }
+        ],
+        "15_motorcycle": [
+            {
+                "tracker_id": 15,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:33:45.310690",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 15,
+                "class": "motorcycle",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:33:50.512835",
+                "violation_number": 2
+            }
+        ],
+        "21_motorcycle": [
+            {
+                "tracker_id": 21,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:33:45.310717",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 21,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:50.512549",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 21,
+                "class": "motorcycle",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:33:54.730676",
+                "violation_number": 3
+            }
+        ],
+        "23_car": [
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:33:45.310745",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:33:50.512929",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:33:55.542578",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:00.686069",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:05.873249",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:11.655137",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:17.889481",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:22.896435",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:27.915596",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:33.079095",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:38.346786",
+                "violation_number": 11
+            },
+            {
+                "tracker_id": 23,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:43.495825",
+                "violation_number": 12
+            }
+        ],
+        "20_person": [
+            {
+                "tracker_id": 20,
+                "class": "person",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:33:45.310773",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 20,
+                "class": "person",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:33:45.649169",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 20,
+                "class": "person",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:33:49.646757",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 20,
+                "class": "person",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:33:50.212026",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 20,
+                "class": "person",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:33:53.495057",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 20,
+                "class": "person",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:58.957699",
+                "violation_number": 6
+            }
+        ],
+        "24_person": [
+            {
+                "tracker_id": 24,
+                "class": "person",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:33:45.310846",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 24,
+                "class": "person",
+                "speed_kmh": 61,
+                "timestamp": "2025-11-27T15:33:49.647184",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 24,
+                "class": "person",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:33:53.813003",
+                "violation_number": 3
+            }
+        ],
+        "16_motorcycle": [
+            {
+                "tracker_id": 16,
+                "class": "motorcycle",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:33:45.310873",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 16,
+                "class": "motorcycle",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:33:50.512692",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 16,
+                "class": "motorcycle",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:33:55.542383",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 16,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:00.685635",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 16,
+                "class": "motorcycle",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:05.873080",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 16,
+                "class": "motorcycle",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:08.838083",
+                "violation_number": 6
+            }
+        ],
+        "6_bus": [
+            {
+                "tracker_id": 6,
+                "class": "bus",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:45.474768",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 6,
+                "class": "bus",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:33:50.512123",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 6,
+                "class": "bus",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:55.541911",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 6,
+                "class": "bus",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:00.685297",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 6,
+                "class": "bus",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:04.127208",
+                "violation_number": 5
+            }
+        ],
+        "14_car": [
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:33:45.475448",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:33:50.821278",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:33:56.134682",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:01.265893",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:06.479030",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:13.788326",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 14,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:20.577212",
+                "violation_number": 7
+            }
+        ],
+        "19_car": [
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:33:45.475584",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 16,
+                "timestamp": "2025-11-27T15:33:50.513116",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:33:55.542663",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:00.686302",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:05.873407",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:13.503185",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:20.286611",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:27.915621",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:34.251900",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:39.528296",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 19,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:45.595975",
+                "violation_number": 11
+            }
+        ],
+        "14_truck": [
+            {
+                "tracker_id": 14,
+                "class": "truck",
+                "speed_kmh": 12,
+                "timestamp": "2025-11-27T15:33:45.905346",
+                "violation_number": 1
+            }
+        ],
+        "9_truck": [
+            {
+                "tracker_id": 9,
+                "class": "truck",
+                "speed_kmh": 34,
+                "timestamp": "2025-11-27T15:33:46.171968",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 9,
+                "class": "truck",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:18.362748",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 9,
+                "class": "truck",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:32.777845",
+                "violation_number": 3
+            }
+        ],
+        "29_bus": [
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 72,
+                "timestamp": "2025-11-27T15:33:46.463478",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 64,
+                "timestamp": "2025-11-27T15:33:53.336896",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 54,
+                "timestamp": "2025-11-27T15:33:57.960478",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 46,
+                "timestamp": "2025-11-27T15:34:02.985272",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:06.776349",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:11.960809",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:17.229525",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:22.285470",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:27.915571",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:36.894153",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 29,
+                "class": "bus",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:45.595695",
+                "violation_number": 11
+            }
+        ],
+        "29_truck": [
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 74,
+                "timestamp": "2025-11-27T15:33:46.776280",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 64,
+                "timestamp": "2025-11-27T15:33:53.151224",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 54,
+                "timestamp": "2025-11-27T15:33:55.276253",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:18.362900",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:23.479136",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:28.542712",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:33.649844",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:38.654717",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 29,
+                "class": "truck",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:43.666038",
+                "violation_number": 9
+            }
+        ],
+        "10_truck": [
+            {
+                "tracker_id": 10,
+                "class": "truck",
+                "speed_kmh": 68,
+                "timestamp": "2025-11-27T15:33:47.065635",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 10,
+                "class": "truck",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:33:59.748624",
+                "violation_number": 2
+            }
+        ],
+        "6_truck": [
+            {
+                "tracker_id": 6,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:33:47.913039",
+                "violation_number": 1
+            }
+        ],
+        "38_person": [
+            {
+                "tracker_id": 38,
+                "class": "person",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:49.906216",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 38,
+                "class": "person",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:33:54.984812",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 38,
+                "class": "person",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:00.109521",
+                "violation_number": 3
+            }
+        ],
+        "24_motorcycle": [
+            {
+                "tracker_id": 24,
+                "class": "motorcycle",
+                "speed_kmh": 63,
+                "timestamp": "2025-11-27T15:33:50.820527",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 24,
+                "class": "motorcycle",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:33:53.495419",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 24,
+                "class": "motorcycle",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:33:54.292856",
+                "violation_number": 3
+            }
+        ],
+        "31_motorcycle": [
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 115,
+                "timestamp": "2025-11-27T15:33:50.821034",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 102,
+                "timestamp": "2025-11-27T15:33:51.707823",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 89,
+                "timestamp": "2025-11-27T15:33:53.971063",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 90,
+                "timestamp": "2025-11-27T15:33:59.119246",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 75,
+                "timestamp": "2025-11-27T15:33:59.589865",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 61,
+                "timestamp": "2025-11-27T15:34:00.388370",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:34:01.850392",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:34:06.174353",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:11.297079",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:16.358161",
+                "violation_number": 10
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:21.667163",
+                "violation_number": 11
+            },
+            {
+                "tracker_id": 31,
+                "class": "motorcycle",
+                "speed_kmh": 72,
+                "timestamp": "2025-11-27T15:34:35.444668",
+                "violation_number": 12
+            }
+        ],
+        "28_motorcycle": [
+            {
+                "tracker_id": 28,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:50.821197",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 28,
+                "class": "motorcycle",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:33:54.292826",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 28,
+                "class": "motorcycle",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:00.109282",
+                "violation_number": 3
+            }
+        ],
+        "17_bus": [
+            {
+                "tracker_id": 17,
+                "class": "bus",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:33:53.812951",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 17,
+                "class": "bus",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:33:59.119194",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 17,
+                "class": "bus",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:04.127782",
+                "violation_number": 3
+            }
+        ],
+        "56_bus": [
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:55.542746",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:33:59.119410",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:11.715520",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:18.671051",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:20.577045",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 10,
+                "timestamp": "2025-11-27T15:34:22.896481",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 56,
+                "class": "bus",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:24.914314",
+                "violation_number": 7
+            }
+        ],
+        "38_motorcycle": [
+            {
+                "tracker_id": 38,
+                "class": "motorcycle",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:33:56.776091",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 38,
+                "class": "motorcycle",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:00.388449",
+                "violation_number": 2
+            }
+        ],
+        "60_car": [
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:33:56.896459",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:02.103210",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:07.371723",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:12.460411",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:17.535565",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:22.589575",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:27.740645",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:30.447770",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 60,
+                "class": "car",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:34.545155",
+                "violation_number": 9
+            }
+        ],
+        "56_truck": [
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:33:58.177698",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 5,
+                "timestamp": "2025-11-27T15:34:03.271861",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 17,
+                "timestamp": "2025-11-27T15:34:08.838203",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:16.649503",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 7,
+                "timestamp": "2025-11-27T15:34:16.927977",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:19.620501",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 56,
+                "class": "truck",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:21.364699",
+                "violation_number": 7
+            }
+        ],
+        "62_car": [
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:33:59.119117",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:04.127537",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:09.130466",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:14.327173",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:19.620388",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:24.628436",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:29.891546",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:35.140568",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:40.387644",
+                "violation_number": 9
+            },
+            {
+                "tracker_id": 62,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:45.595609",
+                "violation_number": 10
+            }
+        ],
+        "31_person": [
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 64,
+                "timestamp": "2025-11-27T15:34:00.109564",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:21.364774",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:24.328810",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 54,
+                "timestamp": "2025-11-27T15:34:30.159531",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 68,
+                "timestamp": "2025-11-27T15:34:34.840123",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 79,
+                "timestamp": "2025-11-27T15:34:38.655146",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 31,
+                "class": "person",
+                "speed_kmh": 82,
+                "timestamp": "2025-11-27T15:34:43.666241",
+                "violation_number": 7
+            }
+        ],
+        "67_bus": [
+            {
+                "tracker_id": 67,
+                "class": "bus",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:03.271941",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 67,
+                "class": "bus",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:08.561780",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 67,
+                "class": "bus",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:12.286310",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 67,
+                "class": "bus",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:15.475878",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 67,
+                "class": "bus",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:20.577089",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 67,
+                "class": "bus",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:34:27.464882",
+                "violation_number": 6
+            }
+        ],
+        "67_truck": [
+            {
+                "tracker_id": 67,
+                "class": "truck",
+                "speed_kmh": 47,
+                "timestamp": "2025-11-27T15:34:03.837580",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 67,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:17.536378",
+                "violation_number": 2
+            }
+        ],
+        "70_car": [
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:04.412574",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:09.425471",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:14.628045",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:19.968394",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 18,
+                "timestamp": "2025-11-27T15:34:25.203006",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:30.447600",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:35.734234",
+                "violation_number": 7
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:41.001393",
+                "violation_number": 8
+            },
+            {
+                "tracker_id": 70,
+                "class": "car",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:46.164604",
+                "violation_number": 9
+            }
+        ],
+        "75_motorcycle": [
+            {
+                "tracker_id": 75,
+                "class": "motorcycle",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:06.776511",
+                "violation_number": 1
+            }
+        ],
+        "90_person": [
+            {
+                "tracker_id": 90,
+                "class": "person",
+                "speed_kmh": 14,
+                "timestamp": "2025-11-27T15:34:14.909154",
+                "violation_number": 1
+            }
+        ],
+        "88_motorcycle": [
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:16.358286",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:21.364579",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:27.015961",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:31.616176",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:36.893834",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:42.827184",
+                "violation_number": 6
+            },
+            {
+                "tracker_id": 88,
+                "class": "motorcycle",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:47.831351",
+                "violation_number": 7
+            }
+        ],
+        "5_truck": [
+            {
+                "tracker_id": 5,
+                "class": "truck",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:18.671097",
+                "violation_number": 1
+            }
+        ],
+        "95_person": [
+            {
+                "tracker_id": 95,
+                "class": "person",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:18.974515",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 95,
+                "class": "person",
+                "speed_kmh": 57,
+                "timestamp": "2025-11-27T15:34:37.479399",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 95,
+                "class": "person",
+                "speed_kmh": 61,
+                "timestamp": "2025-11-27T15:34:42.827260",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 95,
+                "class": "person",
+                "speed_kmh": 46,
+                "timestamp": "2025-11-27T15:34:44.774116",
+                "violation_number": 4
+            }
+        ],
+        "95_motorcycle": [
+            {
+                "tracker_id": 95,
+                "class": "motorcycle",
+                "speed_kmh": 47,
+                "timestamp": "2025-11-27T15:34:19.288585",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 95,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:20.845485",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 95,
+                "class": "motorcycle",
+                "speed_kmh": 46,
+                "timestamp": "2025-11-27T15:34:25.203373",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 95,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:27.740989",
+                "violation_number": 4
+            }
+        ],
+        "103_person": [
+            {
+                "tracker_id": 103,
+                "class": "person",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:22.896557",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 103,
+                "class": "person",
+                "speed_kmh": 27,
+                "timestamp": "2025-11-27T15:34:27.915543",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 103,
+                "class": "person",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:33.078601",
+                "violation_number": 3
+            }
+        ],
+        "102_motorcycle": [
+            {
+                "tracker_id": 102,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:23.188815",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 102,
+                "class": "motorcycle",
+                "speed_kmh": 33,
+                "timestamp": "2025-11-27T15:34:28.230434",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 102,
+                "class": "motorcycle",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:33.372739",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 102,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:38.654995",
+                "violation_number": 4
+            }
+        ],
+        "105_bus": [
+            {
+                "tracker_id": 105,
+                "class": "bus",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:24.628524",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 105,
+                "class": "bus",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:29.891498",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 105,
+                "class": "bus",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:35.140522",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 105,
+                "class": "bus",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:34:40.387849",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 105,
+                "class": "bus",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:45.595930",
+                "violation_number": 5
+            },
+            {
+                "tracker_id": 105,
+                "class": "bus",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:34:45.881021",
+                "violation_number": 6
+            }
+        ],
+        "101_motorcycle": [
+            {
+                "tracker_id": 101,
+                "class": "motorcycle",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:34:25.203746",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 101,
+                "class": "motorcycle",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:34:28.386019",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 101,
+                "class": "motorcycle",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:33.650171",
+                "violation_number": 3
+            },
+            {
+                "tracker_id": 101,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:38.654910",
+                "violation_number": 4
+            },
+            {
+                "tracker_id": 101,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:43.665983",
+                "violation_number": 5
+            }
+        ],
+        "105_truck": [
+            {
+                "tracker_id": 105,
+                "class": "truck",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:27.740842",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 105,
+                "class": "truck",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:35.734852",
+                "violation_number": 2
+            }
+        ],
+        "109_motorcycle": [
+            {
+                "tracker_id": 109,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:28.230332",
+                "violation_number": 1
+            }
+        ],
+        "101_person": [
+            {
+                "tracker_id": 101,
+                "class": "person",
+                "speed_kmh": 37,
+                "timestamp": "2025-11-27T15:34:28.542740",
+                "violation_number": 1
+            }
+        ],
+        "109_person": [
+            {
+                "tracker_id": 109,
+                "class": "person",
+                "speed_kmh": 34,
+                "timestamp": "2025-11-27T15:34:29.336878",
+                "violation_number": 1
+            }
+        ],
+        "102_person": [
+            {
+                "tracker_id": 102,
+                "class": "person",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:31.616499",
+                "violation_number": 1
+            }
+        ],
+        "122_person": [
+            {
+                "tracker_id": 122,
+                "class": "person",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:38.948273",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 122,
+                "class": "person",
+                "speed_kmh": 54,
+                "timestamp": "2025-11-27T15:34:42.995803",
+                "violation_number": 2
+            }
+        ],
+        "124_motorcycle": [
+            {
+                "tracker_id": 124,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:39.234423",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 124,
+                "class": "motorcycle",
+                "speed_kmh": 32,
+                "timestamp": "2025-11-27T15:34:44.482758",
+                "violation_number": 2
+            }
+        ],
+        "125_person": [
+            {
+                "tracker_id": 125,
+                "class": "person",
+                "speed_kmh": 50,
+                "timestamp": "2025-11-27T15:34:39.528343",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 125,
+                "class": "person",
+                "speed_kmh": 34,
+                "timestamp": "2025-11-27T15:34:43.162193",
+                "violation_number": 2
+            }
+        ],
+        "128_bus": [
+            {
+                "tracker_id": 128,
+                "class": "bus",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:40.093312",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 128,
+                "class": "bus",
+                "speed_kmh": 54,
+                "timestamp": "2025-11-27T15:34:43.327896",
+                "violation_number": 2
+            },
+            {
+                "tracker_id": 128,
+                "class": "bus",
+                "speed_kmh": 39,
+                "timestamp": "2025-11-27T15:34:45.595475",
+                "violation_number": 3
+            }
+        ],
+        "127_motorcycle": [
+            {
+                "tracker_id": 127,
+                "class": "motorcycle",
+                "speed_kmh": 36,
+                "timestamp": "2025-11-27T15:34:40.093516",
+                "violation_number": 1
+            },
+            {
+                "tracker_id": 127,
+                "class": "motorcycle",
+                "speed_kmh": 25,
+                "timestamp": "2025-11-27T15:34:43.161959",
+                "violation_number": 2
+            }
+        ],
+        "133_motorcycle": [
+            {
+                "tracker_id": 133,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:44.482587",
+                "violation_number": 1
+            }
+        ],
+        "137_motorcycle": [
+            {
+                "tracker_id": 137,
+                "class": "motorcycle",
+                "speed_kmh": 28,
+                "timestamp": "2025-11-27T15:34:45.305754",
+                "violation_number": 1
+            }
+        ],
+        "138_person": [
+            {
+                "tracker_id": 138,
+                "class": "person",
+                "speed_kmh": 21,
+                "timestamp": "2025-11-27T15:34:45.596018",
+                "violation_number": 1
+            }
+        ],
+        "138_motorcycle": [
+            {
+                "tracker_id": 138,
+                "class": "motorcycle",
+                "speed_kmh": 17,
+                "timestamp": "2025-11-27T15:34:46.705726",
+                "violation_number": 1
+            }
+        ],
+        "135_car": [
+            {
+                "tracker_id": 135,
+                "class": "car",
+                "speed_kmh": 43,
+                "timestamp": "2025-11-27T15:34:46.961008",
+                "violation_number": 1
+            }
+        ]
+    }
+}
